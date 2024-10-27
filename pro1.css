@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1445084142/video/4k-black-luxury-background-with-golden-diagonal-stripes.jpg?s=640x640&k=20&c=PBX2F0BApqe5W1Pvuerjx0I4CoYaVLlTKgON7ndCoz4=");
+    background-size: cover;
+    
+}
+.colour1{
+    color:#FFD700 ;
+    font-size: 60px;
+    font-family: "Kablammo", serif;
+    font-style: italic;
+    text-align: center;
+}
+.para{
+    color: #a67c00;
+    font-size: 20px;
+    
+
+}
+.colour2{
+    color:#FFD700 ;
+    
+    
+    
+}
+.white{
+    color: aliceblue;
+}
+#image{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+table, td, th {
+    border: 1px solid #fbf8f8;
+    
+  }
+  
+  table {
+    /* border-collapse: collapse; */
+     width: 100%; 
+  }
+  
+  th {
+    height: 70px;
+    color: hsl(60, 10%, 94%);
+  }
+  td{
+    color: #FFD700;
+    padding:20px;
+  }
+
